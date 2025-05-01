@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "playwright": "^1.52.0"
+  },
+  "name": "end-2-end",
+  "version": "1.0.0",
+  "description": "Votre mission est de réaliser des tests **end-to-end** sur le site suivant :   https://rubrr.s3-main.oktopod.app/",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.52.0"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
